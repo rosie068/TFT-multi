@@ -6,3 +6,6 @@ Trajectory forecasting in healthcare data has been an important area of research
 
 ### Code organization
 sample.csv: sample input format for TFT-multi
+TFT-multi.ipynb: example workflow of running TFT-multi
+model.py: model implementation of TFT-multi, extension from original TFT model [adopted from https://github.com/PlaytikaOSS/tft-torch?tab=readme-ov-file]
+visualization.py: functions for visualizing output [adopted from https://github.com/PlaytikaOSS/tft-torch?tab=readme-ov-file]
